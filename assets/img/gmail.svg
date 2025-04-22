@@ -1,0 +1,6 @@
+<!-- Save as assets/img/gmail.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="24" height="24">
+  <path fill="#e53935" d="M24 24L4 10v28l20-14z"/>
+  <path fill="#fbc02d" d="M24 24l20 14V10L24 24z"/>
+  <path fill="#e0e0e0" d="M4 10l20 14 20-14H4z"/>
+</svg>
